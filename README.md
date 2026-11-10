@@ -4,4 +4,4 @@
 
 Страница свёрстана на HTML и CSS. Для просмотра откройте файл `index.html` в браузере.
 
-[Репозиторий проекта на GitHub](https://github.com/runber777/ono-tebe-nado)
+https://github.com/runber777/ono-tebe-nado-ad
